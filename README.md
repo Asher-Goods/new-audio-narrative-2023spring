@@ -1,1 +1,1 @@
-This is the home of Asher's future audio narrative project :)
+Welcome to my audio narrative project!
