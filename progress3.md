@@ -1,0 +1,3 @@
+I have completed the first draft of the project! I added many different sounds which can be found in the assets.md file. I made them fit into the audioscape so that they sounded natural by properly timing them and using techniques such as fading, equalizing, cutting, and even using a low pass filter for the music.
+
+I then listened through multiple times and tweaked little aspects like volume. I initially had the issue of running too long (6 minutes.) So, I managed to shorten the project by fading in and out of certain parts of the conversation between me and my roommate.
